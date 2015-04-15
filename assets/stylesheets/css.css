@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+}
+
+.frame {
+  width: 452px;
+  height: 452px;
+  margin: 50px auto;
+  position: relative;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  position: relative;
+  float: left;
+  padding: 100px;
+  font-size: 110px;
+  text-align: center;
+}
+
+.box_1 {
+  width: 150px;
+  height: 150px;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+  margin: 0 auto;
+  position: relative;
+  float: left;
+  padding: 10px;
+}
+
+.box_2 {
+  width: 150px;
+  height: 150px;
+  border-bottom: 1px solid #000;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  margin: 0 auto;
+  position: relative;
+  float: left;
+  padding: 10px;
+}
+
+.box_3 {
+  width: 150px;
+  height: 150px;
+  border-bottom: 1px solid #000;
+  border-left: 1px solid #000;
+  margin: 0 auto;
+  position: relative;
+  float: left;
+  padding: 10px;
+}
+
+.box_4 {
+  width: 150px;
+  height: 150px;
+  border-top: 1px solid #000;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  margin: 0 auto;
+  position: relative;
+  float: left;
+  padding: 10px;
+}
+
+.box_5 {
+  width: 150px;
+  height: 150px;
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  margin: 0 auto;
+  position: relative;
+  float: left;
+  padding: 10px;
+}
+
+.box_6 {
+  width: 150px;
+  height: 150px;
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
+  margin: 0 auto;
+  position: relative;
+  float: left;
+  padding: 10px;
+}
+
+.box_7 {
+  width: 150px;
+  height: 150px;
+  border-top: 1px solid #000;
+  border-right: 1px solid #000;
+  margin: 0 auto;
+  position: relative;
+  float: left;
+  padding: 10px;
+}
+
+.box_8 {
+  width: 150px;
+  height: 150px;
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  margin: 0 auto;
+  position: relative;
+  float: left;
+  padding: 10px;
+}
+
+.box_9 {
+  width: 150px;
+  height: 150px;
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
+  margin: 0 auto;
+  position: relative;
+  float: left;
+  padding: 10px;
+}
